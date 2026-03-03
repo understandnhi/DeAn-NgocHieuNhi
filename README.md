@@ -109,11 +109,15 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels scipy reque
 
 ## Đề Xuất
 
-✅ **Tăng cường đầu tư vào ngân sách sản xuất và marketing**
-✅ **Duy trì thời lượng phim hợp lý (~90-120 phút)**
-✅ **Phát hành vào thời điểm cao điểm (mùa hè, lễ, cuối tuần dài)**
-✅ **Tập trung vào chất lượng nội dung để nâng Average Rating**
-✅ **Tận dụng công nghệ mới và nền tảng phân phối toàn cầu**
+**Tăng cường đầu tư vào ngân sách sản xuất và marketing**
+
+**Duy trì thời lượng phim hợp lý (~90-120 phút)**
+
+**Phát hành vào thời điểm cao điểm (mùa hè, lễ, cuối tuần dài)**
+
+**Tập trung vào chất lượng nội dung để nâng Average Rating**
+
+**Tận dụng công nghệ mới và nền tảng phân phối toàn cầu**
 
 
 **Cập nhật lần cuối**: Tháng 3, 2026
